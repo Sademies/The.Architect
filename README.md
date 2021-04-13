@@ -4,3 +4,7 @@ The.Architect token holders will be also profiting from the coming "THE.ARCHiTEC
 All of these projects and branding will be dependable on the token sale, but we have a faith on you guys support. Thank you :)
 (read white paper for more detailed description of the full project)
 The official web page: www.thearchitectofbitcoin.com
+
+Contract address: 0x3eda71ec8569aa196ea156b3366abd675af87901
+
+
